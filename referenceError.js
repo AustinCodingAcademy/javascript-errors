@@ -16,5 +16,5 @@ function filter(theArray, fnc){
   return newArr;    
 }
 
-let result = filter(names,findthree);
+let result = filter(names,findThree);
 console.log(result);
