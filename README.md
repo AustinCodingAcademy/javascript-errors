@@ -1,5 +1,5 @@
 
-# Intro
+## Intro
 As we are coding our software, we may inadvertently write some code that isn't correct. 
 Text editors try to help us by notifying us of issues but they can't catch everything.
 When we try to run this code, node.js will tell us that something is wrong.
